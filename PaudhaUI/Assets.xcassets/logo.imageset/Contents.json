@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "WhatsApp_Image_2024-01-25_at_01.43.19-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Screenshot_2024-03-06_at_1.43.15_AM-removebg-preview (1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

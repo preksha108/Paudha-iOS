@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Premium_Vector___Vector_illustration_monstera_plant_hand_line_contour_on_the_white_background-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
